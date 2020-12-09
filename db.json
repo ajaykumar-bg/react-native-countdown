@@ -1,0 +1,19 @@
+{
+	"events": [
+		{
+			"id": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba",
+			"title": "Title 1",
+			"date": "2018-06-15T00:00:00.00Z"
+		},
+		{
+			"id": "3ac68afc-c605-48d3-a4f8-fbd91aa97f63",
+			"title": "Title 2",
+			"date": "2020-03-29T13:45:18.000Z"
+		},
+		{
+			"id": "58694a0f-3da1-471f-bd96-145571e29d72",
+			"title": "Title 3",
+			"date": "2018-06-13T00:00:00.00Z"
+		}
+	]
+}
